@@ -3,15 +3,4 @@ Git is free software distributed under the GPL.
 Git is a good tool
 creating a new branch
 creating a new branch is quick and simple
-this is in a master branch
-
-
-
-
-
-
-
-
-
-
- 
+this is a dev branch
