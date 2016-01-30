@@ -2,3 +2,4 @@ this is just  a test file.
 create a new branch for learngit
 this a new breanch which name is new
 use vim to add something
+this is vim 
