@@ -2,7 +2,9 @@ this is just  a test file.
 create a new branch for learngit
 this a new breanch which name is new
 try input something in new branch
-this is a dev branch from my of work
+use vim to add something
+this is a dev branch from other of work
+
 
 
 
