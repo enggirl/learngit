@@ -3,5 +3,5 @@ create a new branch for learngit
 this a new breanch which name is new
 use vim to add something
 try input something in new branch
-this is a dev branch from my work
+this is a dev branch from my of work
 
