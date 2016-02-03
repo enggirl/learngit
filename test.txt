@@ -1,7 +1,9 @@
 this is just  a test file.
 create a new branch for learngit
 this a new breanch which name is new
+try input something in new branch
 use vim to add something
 try input something in new branch
 this is a fix bug
+
 
