@@ -1,8 +1,7 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git is a good tool
-creating a new branch
 creating a new branch is quick and simple
 this is a dev branch
 Git is a free software
+this is a dev branch in my work
 
