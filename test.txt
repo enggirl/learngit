@@ -2,9 +2,8 @@ this is just  a test file.
 create a new branch for learngit
 this a new breanch which name is new
 try input something in new branch
-use vim to add something
+use vim to add something  hahah
 try input something in new branch
-this is a fix bug
 this is a update in 2016.11.28
 
 
